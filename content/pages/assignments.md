@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides three assignments for the course along with solutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
